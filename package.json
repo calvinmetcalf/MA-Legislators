@@ -1,0 +1,20 @@
+{
+  "name": "MA-Legislators",
+  "version": "0.0.0",
+  "description": "This is MassGIS legislative districts data, but up to date.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinmetcalf/MA-Legislators.git"
+  },
+  "license": "public domain",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/MA-Legislators/issues"
+  },
+  "scripts":{
+      "start":"node ./build.js"
+  },
+  "devDependencies": {
+    "topojson": "~1.3.0"
+  }
+}

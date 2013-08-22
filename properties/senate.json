@@ -1,0 +1,358 @@
+{
+    "1": {
+        "URL": "http://www.malegislature.gov/People/Profile/BBD0",
+        "SEN_LAST": "Downing",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Benjamin B.",
+        "SENDISTNUM": 1,
+        "SEN_DIST": "Berkshire, Hampshire, Franklin and Hampden",
+        "SENATOR": "Benjamin B. Downing (D)"
+    },
+    "2": {
+        "URL": "http://www.malegislature.gov/People/Profile/MJR0",
+        "SEN_LAST": "Rodrigues",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Michael J.",
+        "SENDISTNUM": 2,
+        "SEN_DIST": "First Bristol and Plymouth",
+        "SENATOR": "Michael J. Rodrigues (D)"
+    },
+    "3": {
+        "URL": "http://www.malegislature.gov/People/Profile/MCM0",
+        "SEN_LAST": "Montigny",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Mark C.",
+        "SENDISTNUM": 3,
+        "SEN_DIST": "Second Bristol and Plymouth",
+        "SENATOR": "Mark C. Montigny (D)"
+    },
+    "4": {
+        "URL": "http://www.malegislature.gov/People/Profile/MRP0",
+        "SEN_LAST": "Pacheco",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Marc R.",
+        "SENDISTNUM": 4,
+        "SEN_DIST": "First Plymouth and Bristol",
+        "SENATOR": "Marc R. Pacheco (D)"
+    },
+    "5": {
+        "URL": "http://www.malegislature.gov/People/Profile/DAW0",
+        "SEN_LAST": "Wolf",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Daniel A.",
+        "SENDISTNUM": 5,
+        "SEN_DIST": "Cape and Islands",
+        "SENATOR": "Daniel A. Wolf (D)"
+    },
+    "6": {
+        "URL": "http://www.malegislature.gov/People/Profile/TMM0",
+        "SEN_LAST": "McGee",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Thomas M.",
+        "SENDISTNUM": 6,
+        "SEN_DIST": "Third Essex",
+        "SENATOR": "Thomas M. McGee (D)"
+    },
+    "7": {
+        "URL": "http://www.malegislature.gov/People/Profile/JBL0",
+        "SEN_LAST": "Lovely",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Joan B.",
+        "SENDISTNUM": 7,
+        "SEN_DIST": "Second Essex",
+        "SENATOR": "Joan B. Lovely (D)"
+    },
+    "8": {
+        "URL": "http://www.malegislature.gov/People/Profile/KAO0",
+        "SEN_LAST": "O'Connor-Ives",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Kathleen A.",
+        "SENDISTNUM": 8,
+        "SEN_DIST": "First Essex",
+        "SENATOR": "Kathleen A. O'Connor-Ives (D)"
+    },
+    "9": {
+        "URL": "http://www.malegislature.gov/People/Profile/BET0",
+        "SEN_LAST": "Tarr",
+        "SEN_PARTY": "(R)",
+        "SEN_FIRST": "Bruce E.",
+        "SENDISTNUM": 9,
+        "SEN_DIST": "First Essex and Middlesex",
+        "SENATOR": "Bruce E. Tarr (R)"
+    },
+    "10": {
+        "URL": "http://www.malegislature.gov/People/Profile/BRF0",
+        "SEN_LAST": "Finegold",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Barry R.",
+        "SENDISTNUM": 10,
+        "SEN_DIST": "Second Essex and Middlesex",
+        "SENATOR": "Barry R. Finegold (D)"
+    },
+    "11": {
+        "URL": "http://www.malegislature.gov/People/Profile/SCR0",
+        "SEN_LAST": "Rosenberg",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Stanley C.",
+        "SENDISTNUM": 11,
+        "SEN_DIST": "Hampshire, Franklin and Worcester",
+        "SENATOR": "Stanley C. Rosenberg (D)"
+    },
+    "12": {
+        "URL": "http://www.malegislature.gov/People/Profile/JTW0",
+        "SEN_LAST": "Welch",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "James T.",
+        "SENDISTNUM": 12,
+        "SEN_DIST": "Hampden",
+        "SENATOR": "James T. Welch (D)"
+    },
+    "13": {
+        "URL": "http://www.malegislature.gov/People/Profile/GDC0",
+        "SEN_LAST": "Candaras",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Gale D.",
+        "SENDISTNUM": 13,
+        "SEN_DIST": "First Hampden and Hampshire",
+        "SENATOR": "Gale D. Candaras (D)"
+    },
+    "14": {
+        "SEN_DIST": "Second Hampden and Hampshire",
+        "SENDISTNUM": 14,
+        "SENATOR": "OPEN"
+    },
+    "15": {
+        "URL": "http://www.malegislature.gov/People/Profile/EMD0",
+        "SEN_LAST": "Donoghue",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Eileen M.",
+        "SENDISTNUM": 15,
+        "SEN_DIST": "First Middlesex",
+        "SENATOR": "Eileen M. Donoghue (D)"
+    },
+    "16": {
+        "URL": "http://www.malegislature.gov/People/Profile/PDJ0",
+        "SEN_LAST": "Jehlen",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Patricia D.",
+        "SENDISTNUM": 16,
+        "SEN_DIST": "Second Middlesex",
+        "SENATOR": "Patricia D. Jehlen (D)"
+    },
+    "17": {
+        "URL": "http://www.malegislature.gov/People/Profile/KMC0",
+        "SEN_LAST": "Clark",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Katherine M.",
+        "SENDISTNUM": 17,
+        "SEN_DIST": "Fifth Middlesex",
+        "SENATOR": "Katherine M. Clark (D)"
+    },
+    "18": {
+        "URL": "http://www.malegislature.gov/People/Profile/KJD0",
+        "SEN_LAST": "Donnelly",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Kenneth J.",
+        "SENDISTNUM": 18,
+        "SEN_DIST": "Fourth Middlesex",
+        "SENATOR": "Kenneth J. Donnelly (D)"
+    },
+    "19": {
+        "URL": "http://www.malegislature.gov/People/Profile/MJB0",
+        "SEN_LAST": "Barrett",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Michael J.",
+        "SENDISTNUM": 19,
+        "SEN_DIST": "Third Middlesex",
+        "SENATOR": "Michael J. Barrett (D)"
+    },
+    "20": {
+        "URL": "http://www.malegislature.gov/People/Profile/CSC0",
+        "SEN_LAST": "Creem",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Cynthia Stone",
+        "SENDISTNUM": 20,
+        "SEN_DIST": "First Middlesex and Norfolk",
+        "SENATOR": "Cynthia Stone Creem (D)"
+    },
+    "21": {
+        "URL": "http://www.malegislature.gov/People/Profile/KES0",
+        "SEN_LAST": "Spilka",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Karen E.",
+        "SENDISTNUM": 21,
+        "SEN_DIST": "Second Middlesex and Norfolk",
+        "SENATOR": "Karen E. Spilka (D)"
+    },
+    "22": {
+        "URL": "http://www.malegislature.gov/People/Profile/WNB1",
+        "SEN_LAST": "Brownsberger",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "William N.",
+        "SENDISTNUM": 22,
+        "SEN_DIST": "Second Suffolk and Middlesex",
+        "SENATOR": "William N. Brownsberger (D)"
+    },
+    "23": {
+        "URL": "http://www.malegislature.gov/People/Profile/JBE0",
+        "SEN_LAST": "Eldridge",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "James B.",
+        "SENDISTNUM": 23,
+        "SEN_DIST": "Middlesex and Worcester",
+        "SENATOR": "James B. Eldridge (D)"
+    },
+    "24": {
+        "URL": "http://www.malegislature.gov/People/Profile/JFK0",
+        "SEN_LAST": "Keenan",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "John F.",
+        "SENDISTNUM": 24,
+        "SEN_DIST": "Norfolk and Plymouth",
+        "SENATOR": "John F. Keenan (D)"
+    },
+    "25": {
+        "URL": "http://www.malegislature.gov/People/Profile/JET0",
+        "SEN_LAST": "Timilty",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "James E.",
+        "SENDISTNUM": 25,
+        "SEN_DIST": "Bristol and Norfolk",
+        "SENATOR": "James E. Timilty (D)"
+    },
+    "26": {
+        "URL": "http://www.malegislature.gov/People/Profile/RJR0",
+        "SEN_LAST": "Ross",
+        "SEN_PARTY": "(R)",
+        "SEN_FIRST": "Richard J.",
+        "SENDISTNUM": 26,
+        "SEN_DIST": "Norfolk, Bristol and Middlesex",
+        "SENATOR": "Richard J. Ross (R)"
+    },
+    "27": {
+        "URL": "http://www.malegislature.gov/People/Profile/RLH0",
+        "SEN_LAST": "Hedlund",
+        "SEN_PARTY": "(R)",
+        "SEN_FIRST": "Robert L.",
+        "SENDISTNUM": 27,
+        "SEN_DIST": "Plymouth and Norfolk",
+        "SENATOR": "Robert L. Hedlund (R)"
+    },
+    "28": {
+        "URL": "http://www.malegislature.gov/People/Profile/TPK0",
+        "SEN_LAST": "Kennedy",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Thomas P.",
+        "SENDISTNUM": 28,
+        "SEN_DIST": "Second Plymouth and Bristol",
+        "SENATOR": "Thomas P. Kennedy (D)"
+    },
+    "29": {
+        "URL": "http://www.malegislature.gov/People/Profile/T_M0",
+        "SEN_LAST": "Murray",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Therese",
+        "SENDISTNUM": 29,
+        "SEN_DIST": "Plymouth and Barnstable",
+        "SENATOR": "Therese Murray (D)"
+    },
+    "30": {
+        "URL": "http://www.malegislature.gov/People/Profile/LDF1",
+        "SEN_LAST": "Forry",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Linda Dorcena",
+        "SENDISTNUM": 30,
+        "SEN_DIST": "First Suffolk",
+        "SENATOR": "Linda Dorcena Forry (D)"
+    },
+    "31": {
+        "URL": "http://www.malegislature.gov/People/Profile/SCD0",
+        "SEN_LAST": "Chang-Diaz",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Sonia R.",
+        "SENDISTNUM": 31,
+        "SEN_DIST": "Second Suffolk",
+        "SENATOR": "Sonia R. Chang-Diaz (D)"
+    },
+    "32": {
+        "URL": "http://www.malegislature.gov/People/Profile/SND0",
+        "SEN_LAST": "DiDomenico",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Sal N.",
+        "SENDISTNUM": 32,
+        "SEN_DIST": "Middlesex and Suffolk",
+        "SENATOR": "Sal N. DiDomenico (D)"
+    },
+    "33": {
+        "URL": "http://www.malegislature.gov/People/Profile/AWP0",
+        "SEN_LAST": "Petruccelli",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Anthony W.",
+        "SENDISTNUM": 33,
+        "SEN_DIST": "First Suffolk and Middlesex",
+        "SENATOR": "Anthony W. Petruccelli (D)"
+    },
+    "34": {
+        "URL": "http://www.malegislature.gov/People/Profile/MFR0",
+        "SEN_LAST": "Rush",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Michael F.",
+        "SENDISTNUM": 34,
+        "SEN_DIST": "Norfolk and Suffolk",
+        "SENATOR": "Michael F. Rush (D)"
+    },
+    "35": {
+        "URL": "http://www.malegislature.gov/People/Profile/BAJ0",
+        "SEN_LAST": "Joyce",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Brian A.",
+        "SENDISTNUM": 35,
+        "SEN_DIST": "Norfolk, Bristol and Plymouth",
+        "SENATOR": "Brian A. Joyce (D)"
+    },
+    "36": {
+        "URL": "http://www.malegislature.gov/People/Profile/HLC0",
+        "SEN_LAST": "Chandler",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Harriette L.",
+        "SENDISTNUM": 36,
+        "SEN_DIST": "First Worcester",
+        "SENATOR": "Harriette L. Chandler (D)"
+    },
+    "37": {
+        "URL": "http://www.malegislature.gov/People/Profile/SMB0",
+        "SEN_LAST": "Brewer",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Stephen M.",
+        "SENDISTNUM": 37,
+        "SEN_DIST": "Worcester, Hampden, Hampshire and Middlesex",
+        "SENATOR": "Stephen M. Brewer (D)"
+    },
+    "38": {
+        "URL": "http://www.malegislature.gov/People/Profile/MOM0",
+        "SEN_LAST": "Moore",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Michael O.",
+        "SENDISTNUM": 38,
+        "SEN_DIST": "Second Worcester",
+        "SENATOR": "Michael O. Moore (D)"
+    },
+    "39": {
+        "URL": "http://www.malegislature.gov/People/Profile/JLF0",
+        "SEN_LAST": "Flanagan",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Jennifer L.",
+        "SENDISTNUM": 39,
+        "SEN_DIST": "Worcester and Middlesex",
+        "SENATOR": "Jennifer L. Flanagan (D)"
+    },
+    "40": {
+        "URL": "http://www.malegislature.gov/People/Profile/RTM0",
+        "SEN_LAST": "Moore",
+        "SEN_PARTY": "(D)",
+        "SEN_FIRST": "Richard T.",
+        "SENDISTNUM": 40,
+        "SEN_DIST": "Worcester and Norfolk",
+        "SENATOR": "Richard T. Moore (D)"
+    }
+}

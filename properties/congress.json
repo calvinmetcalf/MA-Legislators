@@ -1,0 +1,79 @@
+{
+    "1": {
+        "DISTRICT": "1st Congressional District",
+        "URL": "http://neal.house.gov/",
+        "REP_PARTY": "(D)",
+        "REP": "Richard E. Neal (D)",
+        "REP_LAST": "Neal",
+        "CD113": 1,
+        "REP_FIRST": "Richard"
+    },
+    "2": {
+        "DISTRICT": "2nd Congressional District",
+        "URL": "http://mcgovern.house.gov/",
+        "REP_PARTY": "(D)",
+        "REP": "James P. McGovern (D)",
+        "REP_LAST": "McGovern",
+        "CD113": 2,
+        "REP_FIRST": "James"
+    },
+    "3": {
+        "DISTRICT": "3rd Congressional District",
+        "URL": "http://tsongas.house.gov/",
+        "REP_PARTY": "(D)",
+        "REP": "Nicola S. Tsongas (D)",
+        "REP_LAST": "Tsongas",
+        "CD113": 3,
+        "REP_FIRST": "Nicola"
+    },
+    "4": {
+        "DISTRICT": "4th Congressional District",
+        "URL": "http://kennedy.house.gov/",
+        "REP_PARTY": "(D)",
+        "REP": "Joseph P. Kennedy III (D)",
+        "REP_LAST": "Kennedy",
+        "CD113": 4,
+        "REP_FIRST": "Joseph"
+    },
+    "5": {
+        "REP": "OPEN",
+        "DISTRICT": "5th Congressional District",
+        "CD113": 5
+    },
+    "6": {
+        "DISTRICT": "6th Congressional District",
+        "URL": "http://tierney.house.gov/",
+        "REP_PARTY": "(D)",
+        "REP": "John F. Tierney (D)",
+        "REP_LAST": "Tierney",
+        "CD113": 6,
+        "REP_FIRST": "John"
+    },
+    "7": {
+        "DISTRICT": "7th Congressional District",
+        "URL": "http://www.house.gov/capuano/",
+        "REP_PARTY": "(D)",
+        "REP": "Michael E. Capuano (D)",
+        "REP_LAST": "Capuano",
+        "CD113": 7,
+        "REP_FIRST": "Michael"
+    },
+    "8": {
+        "DISTRICT": "8th Congressional District",
+        "URL": "http://lynch.house.gov/",
+        "REP_PARTY": "(D)",
+        "REP": "Stephen F. Lynch (D)",
+        "REP_LAST": "Lynch",
+        "CD113": 8,
+        "REP_FIRST": "Stephen"
+    },
+    "9": {
+        "DISTRICT": "9th Congressional District",
+        "URL": "http://keating.house.gov/",
+        "REP_PARTY": "(D)",
+        "REP": "William R. Keating (D)",
+        "REP_LAST": "Keating",
+        "CD113": 9,
+        "REP_FIRST": "William"
+    }
+}
