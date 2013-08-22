@@ -16,7 +16,7 @@ senate.name='senate';
 var types = [congress,house,senate];
 var done = 0;
 function doTopo(){
-    var topo = spawn('./node_modules/topojson/bin/topojson', ['-p','-o legislators.topojson','--','congress=congress.geojson','house=house.geojson','senate=senate.geojson']);
+    var topo = spawn('./node_modules/topojson/bin/topojson', ['-p','-o','legislators.topojson','--','congress=congress.geojson','house=house.geojson','senate=senate.geojson']);
     topo.stdout.on('data', function (data) {
   console.log('topojson: '+data);
 });
