@@ -40,7 +40,7 @@ var convert =  function(){
     doc.geo.features.forEach(function(v){
         v.properties=doc.prop[v.id];
     });
-    fs.writeFile('./'+doc.name+'.geojson',JSON.stringify(doc.geo,false,4),{encoding:'utf8'},function(){
+    fs.writeFile('./'+doc.name+'.geojson',JSON.stringify(doc.geo),{encoding:'utf8'},function(){
         console.log('done with',doc.name);
         
         var topo = spawn('./node_modules/topojson/bin/topojson', ['-p','-o',doc.name+'.topojson','--',doc.name+'='+doc.name+'.geojson']);
